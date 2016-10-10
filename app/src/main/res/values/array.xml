@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="key">
+        <item>3801</item>
+        <item>3802</item>
+        <item>3803</item>
+        <item>3804</item>
+    </string-array>
+    <string-array name="value">
+        <item>D3IF-38-01</item>
+        <item>D3IF-38-02</item>
+        <item>D3IF-38-03</item>
+        <item>D3IF-38-04</item>
+    </string-array>
+</resources>
